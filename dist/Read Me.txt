@@ -1,0 +1,12 @@
+Please don't remove xml file.
+And please download OBS Studio because this program use 
+OBS Virtual Camera Driver.
+
+If you have not installed OBS Studio, this Program won't run.
+
+
+
+
+
+OBS Studio Download Link:
+https://obsproject.com/ko/download
